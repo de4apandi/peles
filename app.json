@@ -4,7 +4,7 @@
     "keywords": ["PELES"],
     "env": {
         "UUID": {
-            "description": "VLESS UUID",
+            "description": "PELES UUID",
             "value": "16ea320b-6766-e3e5-0cb9-79d4b34ed60f "
         }
     },
