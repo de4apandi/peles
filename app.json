@@ -1,14 +1,14 @@
 {
-    "name": "VLESS",
-    "description": "Deploy VLESS on Heroku.",
-    "keywords": ["VLESS"],
+    "name": "PELES",
+    "description": "Alat anti maling",
+    "keywords": ["PELES"],
     "env": {
         "UUID": {
             "description": "VLESS UUID",
-            "value": "d936f7f3-3ec2-49ab-b378-4c523e304b76"
+            "value": "16ea320b-6766-e3e5-0cb9-79d4b34ed60f "
         }
     },
-    "website": "https://github.com/HXHGTS/vless-heroku",
-    "repository": "https://github.com/HXHGTS/vless-heroku",
+    "website": "https://github.com/de4apandi/peles",
+    "repository": "https://github.com/de4apandi/peles",
     "stack": "container"
 }
